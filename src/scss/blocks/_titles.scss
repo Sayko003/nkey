@@ -17,6 +17,20 @@
 	color: var(--text);
 	line-height: 67px;
 }
+.h2-big{
+	font-family: var(--font-title);
+	font-weight: 700;
+	font-size: 77px;
+	color: var(--text);
+	line-height: 96px;
+}
+.h2-big-white{
+	font-family: var(--font-title);
+	font-weight: 700;
+	font-size: 77px;
+	color: var(--white);
+	line-height: 96px;
+}
 
 .h3{
 	font-family: var(--font-title);
@@ -26,7 +40,7 @@
 	line-height: 36px;
 }
 
-.h3_white{
+.h3-white{
 	font-family: var(--font-title);
 	font-weight: 700;
 	font-size: 26px;

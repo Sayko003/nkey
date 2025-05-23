@@ -1,0 +1,110 @@
+.catalog__block {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 2%;
+}
+.catalog__descr {
+    max-width: 650px;
+}
+.catalog__swiper{
+    overflow: hidden;
+}
+.swiper-slide {
+    border-radius: 20px;
+    background-color: var(--white);
+}
+.catalog__card{
+    padding: 0 25px 25px 25px;
+}
+.catalog__img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.catalog__prices {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+    margin: -37px 0 20px 0;
+    border-radius: 15px;
+    background-color: rgb(251,251,251);
+    height: 74px;
+}
+.catalog__price {
+    font-family: var(--font-main);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: var(--text-black);
+    span{
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0 5px;
+    }
+}
+.catalog__arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: var(--accent);
+    background-image: linear-gradient(to right bottom, rgba(255,255,255, 0.33) 0%, rgba(5, 22, 31, 0) 100%);
+    background-repeat: no-repeat;
+    background-position: left 0px top 0px;
+    background-size: auto;
+    background-attachment: scroll;
+    transition: all 0.3s linear;
+    &:hover{
+        transform: scale3d(1.05, 1.05, 1);
+        box-shadow: 0px 25px 10px -15px rgba(255, 154, 24, 0.5);
+    }
+}
+.icon--arrow-right {
+    width: 21px;
+    height: 21px;
+    fill: var(--white);
+}
+.catalog__link {
+    display: block;
+    font-family: var(--font-title);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    letter-spacing: 0.5px;
+    margin-bottom: 1%;
+    transition: all 0.3s linear;
+    &:hover{
+        color: var(--blue);
+    }
+}
+
+.catalog__tagline {
+    min-height: 90px;
+}
+
+.catalog__swiper-pagination{
+    margin-top: 2%;
+}
+.catalog__swiper-pagination{
+    display: flex;
+    gap: 1%;
+}
+.catalog .swiper-pagination-bullet{
+    min-width: 30px;
+    min-height: 10px;
+    background-image: linear-gradient(rgba(0,0,0, 0.22) 0%, rgba(0,0,0, 0) 100%);
+    background-repeat: no-repeat;
+    background-position: left 0px top 0px;
+    background-size: auto;
+    background-attachment: scroll;
+    border-radius: 250px;
+}
+.catalog .swiper-pagination-bullet-active{
+    background-color: var(--accent) !important;
+    background-image: none;
+}
