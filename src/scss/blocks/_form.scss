@@ -1,0 +1,20 @@
+.form .padding__block {
+    padding: 5%;
+    background-color: var(--white);
+    border-radius:55px ;
+}
+
+.form__title {
+    margin-bottom: 0.5%;
+}
+.form__descr {
+    max-width: 888px;
+    opacity: 0.77;
+    margin-bottom: 2%;
+}
+.form__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}

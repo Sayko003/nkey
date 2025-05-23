@@ -1,12 +1,6 @@
-.icons-wrapper {
-	padding: 30px 0;
-	display: flex;
-	column-gap: 30px;
-}
-
 .icon {
 	fill: transparent;
-	stroke: transparent;
-	width: 62px;
-	height: 62px;
+	stroke: var(--accent);
+	width: 20px;
+	height: 20px;
 }

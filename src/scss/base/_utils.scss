@@ -38,3 +38,22 @@
 .flex-center {
 	justify-content: center;
 }
+
+.padding__block{
+	padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.hover__orange{
+	transition: all 0.3s ease-in;
+	&:hover{
+		color: var(--accent);
+	}
+}
+
+.slider-overlay{
+	position: relative;
+	z-index: 3;
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><svg viewBox="0 0 665 598" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>:root>svg{display:none}:root>svg:target{display:block}</style><svg data-prefix="iauytgrgh" viewBox="0 0 14.5 26.84" id="arrow-left" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2">
+        <g data-name="Слой 7">
+            <path d="M4.08 15a2.33 2.33 0 0 1 0-3.2l7.42-7.86c.85-.9.81-1 3-3.21a2.36 2.36 0 0 0-3.41 0L.64 11.81a2.34 2.34 0 0 0 0 3.19l10.45 11.1a2.33 2.33 0 0 0 3.4 0c-2.13-2.23-2.15-2.3-3-3.21z" data-name="112.svg" class="apath-ijf4x5ek8" fill="#FFF"/>
+        </g>
+    </g>
+</svg><svg data-prefix="iqec8k3kv" viewBox="0 0 14.5 26.84" id="arrow-right" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2">
+        <g data-name="Слой 7">
+            <path d="M13.86 11.81 3.4.73a2.35 2.35 0 0 0-3.4 0C2.13 3 2.15 3 3 3.94l7.41 7.87a2.34 2.34 0 0 1 0 3.21L3 22.89c-.85.91-.81 1-3 3.21a2.33 2.33 0 0 0 3.4 0L13.86 15a2.34 2.34 0 0 0 0-3.19z" data-name="112.svg" class="bpath-i1ztud80x" fill="#FFF"/>
+        </g>
+    </g>
+</svg><svg data-prefix="if4aflyha" viewBox="0 0 26.84 14.5" id="arrow-up" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2">
+        <g data-name="Слой 7">
+            <path d="M26.1 11.09 15 .64a2.34 2.34 0 0 0-3.21 0L.73 11.09a2.35 2.35 0 0 0 0 3.4C3 12.37 3 12.35 3.94 11.5l7.87-7.42a2.34 2.34 0 0 1 3.21 0l7.87 7.42c.91.85 1 .81 3.21 3a2.35 2.35 0 0 0 0-3.41z" data-name="112.svg" class="cpath-iaznynllf" fill="#FFF"/>
+        </g>
+    </g>
+</svg><svg data-prefix="i93s6jdsy" viewBox="0 0 24 14" id="burger" xmlns="http://www.w3.org/2000/svg">
+    <path d="M23 2H1a1 1 0 0 1 0-2h22a1 1 0 0 1 0 2zm0 6H1a1 1 0 0 1 0-2h22a1 1 0 0 1 0 2zm0 6H1a1 1 0 0 1 0-2h22a1 1 0 0 1 0 2z" class="dpath-iemm7lj63" fill="#FDFEFF" data-name="Слой 2"/>
+</svg><svg data-name="Layer 2" data-prefix="is7mx9xzy" viewBox="0 0 665 598" id="home" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Layer 1">
+        <path d="M525.39 0H141.41C63.96 0 0 62 0 139.45v122.18l75-71.14v-51.04C75 103.48 105.44 75 141.41 75h383.98c35.98 0 64.61 28.48 64.61 64.45v317.99c0 35.97-28.63 65.56-64.61 65.56H453v75h72.39C602.85 598 665 534.89 665 457.44V139.45C665 62 602.85 0 525.39 0z" class="epath-i80ujmnp1" fill="#FFF"/>
+        <path d="M560.01 412H453.94l-192.1-192.1L75.5 406.24 69.74 412H0v-36.91l75.25-75.17.62-.5 185.9-185.71L560.01 412z" class="epath-i5ez4rzbz" fill="#FF9A18"/>
+        <path d="M266 366h41v42h-41zm-52 0h42v42h-42zm0 51h42v42h-42zm52 0h41v42h-41zM75 299.92V598H0V375.09l75-75.17z" class="epath-it06sa7wr" fill="#FF9A18"/>
+        <path d="M0 523h408v75H0z" class="epath-i89kmc1qo" fill="#FF9A18"/>
+    </g>
+</svg><svg data-prefix="i9ms01ahx" viewBox="0 0 38 30" id="mail" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2">
+        <g data-name="Sent Mail" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" stroke="#FF9A18">
+            <path d="M23 1H5a4 4 0 0 0-4 4v20a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4h0m-18-8L2.26 2.12M31 21V1" class="fpath-iqgr0h0ii"/>
+            <path d="m37 7-6-6-6 6" class="fpath-ifzdappte"/>
+        </g>
+    </g>
+</svg><svg data-prefix="i0pcs9osf" viewBox="0 0 38 38" id="map" xmlns="http://www.w3.org/2000/svg">
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-name="Слой 2" fill="none" stroke="#FF9A18">
+        <path d="M21 36.9c-.66.06-1.32.1-2 .1a18 18 0 1 1 17-24M15 25H2.04m0-12H19M16.94 1.12a42.54 42.54 0 0 0 0 35.76M24.22 11a42.17 42.17 0 0 0-3.16-9.88" class="gpath-iz4wftb9i"/>
+        <path d="M37 25.21C37 29.75 29 37 29 37s-8-7.25-8-11.79a8 8 0 1 1 16 0z" class="gpath-ie9sqvqao"/>
+        <circle cx="29" cy="25" r="3" class="gcircle-iwzemyhwt"/>
+    </g>
+</svg><svg data-prefix="iqyomotnu" viewBox="0 0 20 20" id="modal-close" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2" fill="#FDFEFF">
+        <path d="M1 20a1 1 0 0 1-.71-.29 1 1 0 0 1 0-1.42l18-18a1 1 0 1 1 1.42 1.42l-18 18A1 1 0 0 1 1 20z" class="hpath-iev8wo2h5"/>
+        <path d="M19 20a1 1 0 0 1-.71-.29l-18-18A1 1 0 0 1 1.71.29l18 18a1 1 0 0 1 0 1.42A1 1 0 0 1 19 20z" class="hpath-isaiv8ak5"/>
+    </g>
+</svg><svg data-prefix="i7aeo6me1" viewBox="0 0 34 34" id="tel" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Слой 2">
+        <g data-name="Incoming Call" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" stroke="#FF9A18">
+            <path d="M29 33h-4A24 24 0 0 1 1 9V5a4 4 0 0 1 4-4h6l2 8-4 2h0a14 14 0 0 0 14 14h0l2-4 8 2v6a4 4 0 0 1-4 4zm4-32L21 13" class="ipath-i5wb6j9zn"/>
+            <path d="M21 1v12h12" class="ipath-irr7n2z9t"/>
+        </g>
+    </g>
+</svg></svg>

@@ -30,9 +30,11 @@
 		"gulp-webp-retina-html": "^1.2.0",
 		"i": "^0.3.7",
 		"imagemin-webp": "^6.0.1",
+		"micromodal": "^0.6.1",
 		"npm": "^9.9.3",
 		"sass": "^1.63.4",
 		"style-loader": "^3.3.3",
+		"swiper": "^11.2.7",
 		"webpack-stream": "^7.0.0"
 	},
 	"babel": {
@@ -46,7 +48,6 @@
 	"dependencies": {
 		"@fancyapps/fancybox": "^3.5.7",
 		"@fancyapps/ui": "^5.0.35",
-		"avif-webp-checker": "^1.0.0",
-		"swiper": "^11.0.6"
+		"avif-webp-checker": "^1.0.0"
 	}
 }
