@@ -37,6 +37,7 @@ const slider = () =>{
     const reviewsSwiper = new Swiper('.reviews__swiper', {
             modules: [Navigation,Pagination],
             direction: 'horizontal',
+            loop: true,
             autoplay: {
                 delay: 5000,
             },
