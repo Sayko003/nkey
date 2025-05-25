@@ -5,7 +5,7 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Новый ключ</title>
+	<title>Новый ключ прайс</title>
 	<link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96" />
 	<link rel="icon" type="image/svg+xml" href="/img/favicon/favicon.svg" />
 	<link rel="shortcut icon" href="/img/favicon/favicon.ico" />
@@ -16,15 +16,10 @@
 </head>
 
 <body>
-	@@include('blocks/header-slider.html')
+	@@include('blocks/header.html')
 	@@include('blocks/mobile-menu.html')
 	<main>
-		@@include('blocks/form.html')
-		@@include('blocks/catalog.html')
-		@@include('blocks/advantages.html')
-		@@include('blocks/about.html')
-		@@include('blocks/types.html')
-		@@include('blocks/reviews.html')
+		@@include('page/page-about-price.html')
 	</main>
 	@@include('blocks/footer.html')
 	<script src="./js/index.bundle.js"></script>

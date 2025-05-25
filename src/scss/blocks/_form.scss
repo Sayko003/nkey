@@ -1,7 +1,10 @@
+
 .form .padding__block {
     padding: 5%;
-    background-color: var(--white);
-    border-radius:55px ;
+    background: linear-gradient(rgba(255,255,255, 0.8) 0%, rgba(255,255,255, 0.8) 100%),
+    url('../../img/page/home/form/form-bg.png') right center /contain no-repeat,
+    var(--white);
+    border-radius: 55px;
 }
 
 .form__title {

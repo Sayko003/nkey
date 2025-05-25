@@ -1,0 +1,24 @@
+.breadcrumbs {
+    display: flex;
+    column-gap: 20px;
+    margin-bottom: 30px;
+}
+.breadcrumbs__item {
+    position: relative;
+    &:not(:first-child)::before{
+        content: '/';
+        display: inline;
+        position: relative;
+        left: -10px;
+    }
+}
+.breadcrumbs__link {
+    transition: all 0.3s linear;
+    &:hover{
+        color: var(--accent);
+    }
+}
+.breadcrumbs__link_active {
+    color: var(--accent);
+    transition: all 0.3s linear;
+}

@@ -17,8 +17,7 @@ const slider = () =>{
             el: '.header__swiper-pagination',
             clickable: true,
         },
-
-    });
+});
 
     const catalogSwiper = new Swiper('.catalog__swiper', {
             modules: [Pagination],
@@ -32,6 +31,18 @@ const slider = () =>{
                 clickable: true,
             },
             spaceBetween: 30,
+            breakpoints: {
+                320:{
+                    slidesPerView: 1,
+                },
+                768: {
+                slidesPerView: 2,
+                },
+                1350:{
+                    slidesPerView: 3,
+                },
+            }
+            
     });
 
     const reviewsSwiper = new Swiper('.reviews__swiper', {
@@ -51,6 +62,14 @@ const slider = () =>{
                 prevEl: '.reviews__swiper-button-prev',
             },
             spaceBetween: 30,
+            breakpoints: {
+                360: {
+                slidesPerView: 1,
+                },
+                1350:{
+                    slidesPerView: 2,
+                },
+            }
     });
 }
 

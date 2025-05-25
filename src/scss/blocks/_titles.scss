@@ -2,8 +2,7 @@
 	font-family: var(--font-title);
 	font-weight: 700;
 	color: var(--white);
-	font-size: 4vw;
-    line-height: 5vw;
+	font-size: 78px;
     letter-spacing: 0.05vw;
 	span{
 		color: var(--accent);
@@ -13,31 +12,27 @@
 .h2{
 	font-family: var(--font-title);
 	font-weight: 700;
-	font-size: 48px;
+	font-size: 47px;
 	color: var(--text);
-	line-height: 67px;
 }
 .h2-big{
 	font-family: var(--font-title);
 	font-weight: 700;
 	font-size: 77px;
 	color: var(--text);
-	line-height: 96px;
 }
 .h2-big-white{
 	font-family: var(--font-title);
 	font-weight: 700;
-	font-size: 77px;
+	font-size: clamp(1.75rem, 0.636rem + 5.57vw, 4.813rem);
 	color: var(--white);
-	line-height: 96px;
 }
 
 .h3{
 	font-family: var(--font-title);
 	font-weight: 700;
-	font-size: 26px;
+	font-size: clamp(1.375rem, 1.284rem + 0.45vw, 1.625rem);
 	color: var(--text);
-	line-height: 36px;
 }
 
 .h3-white{
@@ -45,7 +40,6 @@
 	font-weight: 700;
 	font-size: 26px;
 	color: var(--white);
-	line-height: 36px;
 }
 .text-white{
 	font-family: var(--font-main);

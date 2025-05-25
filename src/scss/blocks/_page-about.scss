@@ -1,0 +1,24 @@
+.page-about .page-about__title {
+    color: var(--text);
+    margin-bottom: 1%;
+}
+.page__about_head {
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+.page__about__list {
+    margin-top: 1%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.page__about__item {
+    color: var(--text);
+    list-style: circle;
+    margin-left: 20px;
+}
+.page-about .text-orange {
+    margin-top: 20px;
+    color: var(--accent);
+    font-size: 20px;
+}

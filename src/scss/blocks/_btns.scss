@@ -8,7 +8,7 @@
     background-position: left 0px top 0px;
     background-size: auto;
     background-attachment: scroll;
-    font-size: 28px;
+    font-size: clamp(1.375rem, 1.239rem + 0.68vw, 1.75rem);
     line-height: 38px;
     font-weight: 700;
     color: var(--white);

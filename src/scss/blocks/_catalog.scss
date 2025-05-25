@@ -10,9 +10,13 @@
 .catalog__swiper{
     overflow: hidden;
 }
-.swiper-slide {
+.catalog .swiper-wrapper{
+    align-items: stretch;
+}
+.catalog .swiper-slide {
     border-radius: 20px;
     background-color: var(--white);
+    height: auto;
 }
 .catalog__card{
     padding: 0 25px 25px 25px;

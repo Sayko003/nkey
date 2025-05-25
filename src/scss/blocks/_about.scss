@@ -4,7 +4,7 @@
 
 .about__wrapper {
     display: flex;
-    align-items: center;
+    align-items: stretch;
     background-color: var(--white);
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -14,10 +14,11 @@
 .about__img {
     max-width: 50%;
     width: 100%;
-    
+    height: auto;
 }
 .about__img img{
     object-fit: cover;
+    height: 100%;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
 }
